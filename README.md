@@ -5,7 +5,7 @@
 - 微信公众号：群智能算法小狂人
 - [公众号免费资源专栏](https://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjg5NzQ5OQ==&hid=7&sn=fd7dbf0a28ea2c5d2bd11388b718f40f&scene=18)
 
-为便于阅读，这里按年份分块展示，**同时在“算法简称”列中保留直达文章的超链接。 点击Source code中的code**可直接免费获取算法对应的代码 
+为便于阅读，这里按年份分块展示，**同时在“算法简称”列中保留直达文章的超链接。 点击Source code中的code**可直接免费获取算法对应的代码。
 
 ---
 **Year = 2025**  
